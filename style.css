@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    
+    display: flex;
+    background-color: #E1EDE6;
+    height: 100px;
+    
+}
+.logo{
+    width: 143px;
+    height: 35px;
+    padding: 33px 165px;
+}
+.nav-list{
+   
+    display: flex;
+    margin-left: 497px;
+    list-style: none;
+    gap: 60px;
+}
+li{
+    margin-top: 38px;
+    font-size: 20px;
+  
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.basket{
+    margin-left: 60px;
+    margin-top: 38px;
+}
+.bird{
+    display: flex;
+    gap: 30px;
+}
+.bird-img{
+    width: 540px;
+    height: 621px;
+    
+    margin-left: 165px;
+}
+h1{
+    font-size: 60px;
+    margin-top: 145px;
+    gap: 20px;
+   
+
+}
+span{
+    color: #598D66;
+}
+p{
+    color: #86928B;
+    font-size: 18px;
+    width: 500px;
+    line-height: 27px;
+    margin-top: 20px;
+  
+
+}
+.btn{
+    border: 2px solid #598D66;
+    width: 225px;
+    height: 65px;
+    padding:20px, 60px, 20px, 60px;
+    margin-top: 60px;
+    font-size: 20px;
+    color: #598D66;
+    
+}
+
+
+h2{
+    width: 225px;
+    height: 44px;
+    font-size: 40px;
+    margin-left: 165px;
+    margin-top: 70px;
+    color: #2C2D35;
+}
